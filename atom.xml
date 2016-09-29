@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hawk5408.github.io/"/>
-  <updated>2016-09-29T11:45:18.436Z</updated>
+  <updated>2016-09-29T16:25:49.506Z</updated>
   <id>http://hawk5408.github.io/</id>
   
   <author>
@@ -16,29 +16,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://hawk5408.github.io/2016/09/29/hello-world/"/>
-    <id>http://hawk5408.github.io/2016/09/29/hello-world/</id>
-    <published>2016-09-29T11:45:18.427Z</published>
-    <updated>2016-09-29T11:45:18.436Z</updated>
+    <title>Install Hexo</title>
+    <link href="http://hawk5408.github.io/2016/09/29/install-hexo/"/>
+    <id>http://hawk5408.github.io/2016/09/29/install-hexo/</id>
+    <published>2016-09-29T13:44:06.000Z</published>
+    <updated>2016-09-29T16:25:49.506Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+    <content type="html"><![CDATA[<h1 id="安裝Hexo"><a href="#安裝Hexo" class="headerlink" title="安裝Hexo"></a>安裝Hexo</h1><p><strong>1. Windows</strong>   </p>
+<pre><code>1. 安裝Git  
+    - [x] [Windows i386/x64 32/64bit](https://git-scm.com/download/win)
+2. 安裝Node.js   
+    根據你的Windos版本, 下載相對應版本  
+    - [x] [Windows i386 32bit](https://nodejs.org/dist/v4.6.6/node-v4.6.6-x86.msi)   
+    - [x] [Windows x64 64bit](https://nodejs.org/dist/v4.6.0/node-v4.6.0-x64.msi)   
+3. &apos;Win&apos;+&apos;R&apos;打開執行畫面, 輸入&apos;cmd&apos;打開命令提示字元視窗   
+4. 輸入&apos;node -v &amp;&amp; npm -v&apos;看版本確認安裝成功
+</code></pre><p><strong>2. Ubuntu</strong></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h1 id=&quot;安裝Hexo&quot;&gt;&lt;a href=&quot;#安裝Hexo&quot; class=&quot;headerlink&quot; title=&quot;安裝Hexo&quot;&gt;&lt;/a&gt;安裝Hexo&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;1. Windows&lt;/strong&gt;   &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;1. 安裝Git
     
     </summary>
     
+    
+      <category term="Hexo" scheme="http://hawk5408.github.io/tags/Hexo/"/>
     
   </entry>
   
