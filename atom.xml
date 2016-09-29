@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hawk5408.github.io/"/>
-  <updated>2016-09-29T16:50:06.710Z</updated>
+  <updated>2016-09-29T16:50:54.517Z</updated>
   <id>http://hawk5408.github.io/</id>
   
   <author>
@@ -20,18 +20,14 @@
     <link href="http://hawk5408.github.io/2016/09/29/install-hexo/"/>
     <id>http://hawk5408.github.io/2016/09/29/install-hexo/</id>
     <published>2016-09-29T13:44:06.000Z</published>
-    <updated>2016-09-29T16:50:06.710Z</updated>
+    <updated>2016-09-29T16:50:54.517Z</updated>
     
     <content type="html"><![CDATA[<h1 id="安裝Hexo"><a href="#安裝Hexo" class="headerlink" title="安裝Hexo"></a>安裝Hexo</h1><p><strong>1. Windows</strong>     </p>
 <ol>
-<li><p>安裝Git<br><a href="https://git-scm.com/download/win" target="_blank" rel="external">Windows i386/x64 32/64bit</a></p>
-</li>
-<li><p>安裝Node.js<br>根據你的Windos版本, 下載相對應版本<br><a href="https://nodejs.org/dist/v4.6.6/node-v4.6.6-x86.msi" target="_blank" rel="external">Windows i386 32bit</a><br><a href="https://nodejs.org/dist/v4.6.0/node-v4.6.0-x64.msi" target="_blank" rel="external">Windows x64 64bit</a></p>
-</li>
-<li><p>‘Win’+’R’打開執行畫面, 輸入’cmd’打開命令提示字元視窗</p>
-</li>
-<li><p>輸入’node -v &amp;&amp; npm -v’看版本確認安裝成功</p>
-</li>
+<li>安裝Git<br><a href="https://git-scm.com/download/win" target="_blank" rel="external">Windows i386/x64 32/64bit</a></li>
+<li>安裝Node.js<br>根據你的Windos版本, 下載相對應版本<br><a href="https://nodejs.org/dist/v4.6.6/node-v4.6.6-x86.msi" target="_blank" rel="external">Windows i386 32bit</a><br><a href="https://nodejs.org/dist/v4.6.0/node-v4.6.0-x64.msi" target="_blank" rel="external">Windows x64 64bit</a></li>
+<li>‘Win’+’R’打開執行畫面, 輸入’cmd’打開命令提示字元視窗</li>
+<li>輸入’node -v &amp;&amp; npm -v’看版本確認安裝成功</li>
 </ol>
 <p><strong>2. Ubuntu</strong>  </p>
 ]]></content>
@@ -40,7 +36,7 @@
     
       &lt;h1 id=&quot;安裝Hexo&quot;&gt;&lt;a href=&quot;#安裝Hexo&quot; class=&quot;headerlink&quot; title=&quot;安裝Hexo&quot;&gt;&lt;/a&gt;安裝Hexo&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;1. Windows&lt;/strong&gt;     &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;安裝Git
+&lt;li&gt;安裝Git&lt;br
     
     </summary>
     
