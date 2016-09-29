@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hawk5408.github.io/"/>
-  <updated>2016-09-29T17:06:28.247Z</updated>
+  <updated>2016-09-29T17:15:28.719Z</updated>
   <id>http://hawk5408.github.io/</id>
   
   <author>
@@ -20,16 +20,17 @@
     <link href="http://hawk5408.github.io/2016/09/29/install-hexo/"/>
     <id>http://hawk5408.github.io/2016/09/29/install-hexo/</id>
     <published>2016-09-29T13:44:06.000Z</published>
-    <updated>2016-09-29T17:06:28.247Z</updated>
+    <updated>2016-09-29T17:15:28.719Z</updated>
     
     <content type="html"><![CDATA[<h1 id="安裝Hexo"><a href="#安裝Hexo" class="headerlink" title="安裝Hexo"></a>安裝Hexo</h1><p><strong>1. Windows</strong>     </p>
 <ol>
 <li>安裝Git<br><a href="https://git-scm.com/download/win" target="_blank" rel="external">Windows i386/x64 32/64bit</a><br><code>在PATH設定環境下選擇Use Git from the Windows Command Prompt</code></li>
 <li><code>Win</code>+<code>R</code>打開執行畫面, 輸入<code>cmd</code>打開命令提示字元視窗</li>
 <li>輸入<code>git --version</code>看版本確認安裝成功</li>
-<li>安裝Node.js<br>根據你的Windos版本, 下載相對應版本<br><a href="https://nodejs.org/dist/v4.6.6/node-v4.6.6-x86.msi" target="_blank" rel="external">Windows i386 32bit</a><br><a href="https://nodejs.org/dist/v4.6.0/node-v4.6.0-x64.msi" target="_blank" rel="external">Windows x64 64bit</a></li>
+<li>安裝Node.js<br>根據Windos版本, 下載相對應版本<br><a href="https://nodejs.org/dist/v4.6.6/node-v4.6.6-x86.msi" target="_blank" rel="external">Windows i386 32bit</a><br><a href="https://nodejs.org/dist/v4.6.0/node-v4.6.0-x64.msi" target="_blank" rel="external">Windows x64 64bit</a></li>
 <li><code>Win</code>+<code>R</code>打開執行畫面, 輸入<code>cmd</code>打開命令提示字元視窗</li>
 <li>輸入<code>node -v &amp;&amp; npm -v</code>看版本確認安裝成功</li>
+<li>註冊<a href="https://github.com/" target="_blank" rel="external">Github</a></li>
 </ol>
 <p><strong>2. Ubuntu</strong>  </p>
 ]]></content>
